@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYtjaZD7BSQopHtq4RM+123e2IKUtWdzHa8OEbo1/HPSXe8lJ+5I44UsFmUxF7G5e4kVD11F5fnC93ICsmPb0A==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\back-projeto-paysandu\\Projeto.Paysandu\\src\\Projeto.Paysandu.Services\\Projeto.Paysandu.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\docsbrvalidator\\1.3.1\\docsbrvalidator.1.3.1.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.3\\microsoft.aspnetcore.cryptography.internal.7.0.3.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.3\\microsoft.aspnetcore.cryptography.keyderivation.7.0.3.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.3\\microsoft.extensions.identity.core.7.0.3.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.3\\microsoft.extensions.identity.stores.7.0.3.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

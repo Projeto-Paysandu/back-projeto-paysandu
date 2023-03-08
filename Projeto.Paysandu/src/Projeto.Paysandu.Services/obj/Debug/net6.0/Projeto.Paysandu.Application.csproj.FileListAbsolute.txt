@@ -1,0 +1,15 @@
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Application.csproj.AssemblyReference.cache
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Application.AssemblyInfoInputs.cache
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Application.AssemblyInfo.cs
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Application.csproj.CoreCompileInputs.cache
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\bin\Debug\net6.0\Projeto.Paysandu.Application.deps.json
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\bin\Debug\net6.0\Projeto.Paysandu.Application.dll
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\bin\Debug\net6.0\Projeto.Paysandu.Application.pdb
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Application.dll
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\refint\Projeto.Paysandu.Application.dll
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Application.pdb
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\ref\Projeto.Paysandu.Application.dll
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\bin\Debug\net6.0\Projeto.Paysandu.Domain.dll
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\bin\Debug\net6.0\Projeto.Paysandu.Domain.pdb
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Application.csproj.CopyComplete
