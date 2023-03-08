@@ -1,6 +1,6 @@
 ### ⚙️  Structure
 
--  	DDD .NET Core MVC Application ✔️
+-  	DDD .NET Core MVC Application 
 
 ### 🛠  Technologies
 
