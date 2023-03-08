@@ -7,6 +7,7 @@
 -  [.NET Core 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
  - [Entity Framework](https://docs.microsoft.com/pt-br/ef/core/)
  - [Supabase PostgreSQL](https://supabase.com/docs/guides/database/overview)
+ - [JWT Authentication](https://jwt.io/)
  
 ### Layers
 
