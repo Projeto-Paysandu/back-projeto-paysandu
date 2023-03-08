@@ -1,0 +1,12 @@
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\bin\Debug\net6.0\Projeto.Paysandu.Services.deps.json
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\bin\Debug\net6.0\Projeto.Paysandu.Services.dll
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\bin\Debug\net6.0\Projeto.Paysandu.Services.pdb
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Services.csproj.AssemblyReference.cache
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Services.AssemblyInfoInputs.cache
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Services.AssemblyInfo.cs
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Services.csproj.CoreCompileInputs.cache
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Services.dll
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\refint\Projeto.Paysandu.Services.dll
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\Projeto.Paysandu.Services.pdb
+F:\GitHub\back-projeto-paysandu\Projeto.Paysandu\src\Projeto.Paysandu.Services\obj\Debug\net6.0\ref\Projeto.Paysandu.Services.dll

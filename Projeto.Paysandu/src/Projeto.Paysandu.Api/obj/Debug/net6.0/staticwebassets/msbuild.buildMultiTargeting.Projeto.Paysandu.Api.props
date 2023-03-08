@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Projeto.Paysandu.Api.props" />
+</Project>
